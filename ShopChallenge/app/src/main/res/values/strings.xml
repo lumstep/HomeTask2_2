@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shop Challenge</string>
+
+    <string name="button_add_product">Buy product</string>
+
+    <string name="product_one">Bread</string>
+    <string name="product_two">Cheese</string>
+    <string name="product_three">Potato</string>
+    <string name="product_four">Tomato</string>
+    <string name="product_five">Bananas</string>
+    <string name="product_six">Chocolate</string>
+    <string name="product_seven">Honey</string>
+    <string name="product_eight">Meat</string>
+    <string name="product_nine">Eggs</string>
+    <string name="product_ten">Chips</string>
+    <string name="editText_hint">Please enter shop\'s name</string>
+    <string name="find_shop_button">Show the shop</string>
+</resources>
